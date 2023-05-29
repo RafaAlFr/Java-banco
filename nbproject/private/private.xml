@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Rafael%20de%20Alcantara/Documents/NetBeansProjects/BackEndDm20231n/src/backenddm20231n/BackEndDm20231n.java</file>
+            <file>file:/C:/Users/Rafael%20de%20Alcantara/Documents/NetBeansProjects/BackEndDm20231n/src/backenddm20231n/model/bean/Compra.java</file>
+            <file>file:/C:/Users/Rafael%20de%20Alcantara/Documents/NetBeansProjects/BackEndDm20231n/src/backenddm20231n/controller/ControllerFuncionario.java</file>
+            <file>file:/C:/Users/Rafael%20de%20Alcantara/Documents/NetBeansProjects/BackEndDm20231n/src/backenddm20231n/model/dao/DaoCliente.java</file>
+            <file>file:/C:/Users/Rafael%20de%20Alcantara/Documents/NetBeansProjects/BackEndDm20231n/src/backenddm20231n/model/dao/DaoPessoa.java</file>
+            <file>file:/C:/Users/Rafael%20de%20Alcantara/Documents/NetBeansProjects/BackEndDm20231n/src/backenddm20231n/model/dao/DaoLogradouro.java</file>
+            <file>file:/C:/Users/Rafael%20de%20Alcantara/Documents/NetBeansProjects/BackEndDm20231n/src/backenddm20231n/view/ManterCliente.java</file>
+            <file>file:/C:/Users/Rafael%20de%20Alcantara/Documents/NetBeansProjects/BackEndDm20231n/src/backenddm20231n/view/ManterClienteCompra.java</file>
+            <file>file:/C:/Users/Rafael%20de%20Alcantara/Documents/NetBeansProjects/BackEndDm20231n/src/backenddm20231n/model/dao/DaoCompra.java</file>
+            <file>file:/C:/Users/Rafael%20de%20Alcantara/Documents/NetBeansProjects/BackEndDm20231n/src/backenddm20231n/model/dao/DaoClienteCompra.java</file>
+            <file>file:/C:/Users/Rafael%20de%20Alcantara/Documents/NetBeansProjects/BackEndDm20231n/src/backenddm20231n/controller/ControllerLogradouro.java</file>
+            <file>file:/C:/Users/Rafael%20de%20Alcantara/Documents/NetBeansProjects/BackEndDm20231n/src/backenddm20231n/controller/ControllerPessoa.java</file>
+            <file>file:/C:/Users/Rafael%20de%20Alcantara/Documents/NetBeansProjects/BackEndDm20231n/src/backenddm20231n/controller/ControllerCompra.java</file>
+            <file>file:/C:/Users/Rafael%20de%20Alcantara/Documents/NetBeansProjects/BackEndDm20231n/src/backenddm20231n/model/bean/Pessoa.java</file>
+            <file>file:/C:/Users/Rafael%20de%20Alcantara/Documents/NetBeansProjects/BackEndDm20231n/src/backenddm20231n/controller/ControllerClienteCompra.java</file>
+            <file>file:/C:/Users/Rafael%20de%20Alcantara/Documents/NetBeansProjects/BackEndDm20231n/src/backenddm20231n/controller/ControllerMercadoria.java</file>
+            <file>file:/C:/Users/Rafael%20de%20Alcantara/Documents/NetBeansProjects/BackEndDm20231n/src/backenddm20231n/model/bean/Mercadoria.java</file>
+            <file>file:/C:/Users/Rafael%20de%20Alcantara/Documents/NetBeansProjects/BackEndDm20231n/src/backenddm20231n/controller/ControllerCliente.java</file>
+            <file>file:/C:/Users/Rafael%20de%20Alcantara/Documents/NetBeansProjects/BackEndDm20231n/src/backenddm20231n/model/bean/Cliente.java</file>
+            <file>file:/C:/Users/Rafael%20de%20Alcantara/Documents/NetBeansProjects/BackEndDm20231n/src/backenddm20231n/model/dao/DaoFuncionario.java</file>
+            <file>file:/C:/Users/Rafael%20de%20Alcantara/Documents/NetBeansProjects/BackEndDm20231n/src/backenddm20231n/model/dao/DaoMercadoria.java</file>
+            <file>file:/C:/Users/Rafael%20de%20Alcantara/Documents/NetBeansProjects/BackEndDm20231n/src/backenddm20231n/model/bean/Logradouro.java</file>
+            <file>file:/C:/Users/Rafael%20de%20Alcantara/Documents/NetBeansProjects/BackEndDm20231n/src/backenddm20231n/view/ManterPessoa.java</file>
+            <file>file:/C:/Users/Rafael%20de%20Alcantara/Documents/NetBeansProjects/BackEndDm20231n/src/backenddm20231n/view/ManterFuncionario.java</file>
+        </group>
+    </open-files>
+</project-private>
